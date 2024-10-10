@@ -65,15 +65,3 @@
     <img src="https://komarev.com/ghpvc/?username=AyaKhaled&style=for-the-badge">
 <br> 
 	
-# 📊 GitHub Stats :
-
-<div style="text-align: center; margin: 2px; padding: 5px;">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aya-Khaled14&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api?username=Aya-Khaled14&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aya-Khaled14&theme=react&hide_border=false)<br/>
-
-</div>
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email Address]
