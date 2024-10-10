@@ -59,9 +59,4 @@
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width=5%> Competitive Programming & Problem Solving
   
 
----
-<br>
-<a href="https://komarev.com/ghpvc/?username=AyaKhaled&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=AyaKhaled&style=for-the-badge">
-<br> 
-	
+
