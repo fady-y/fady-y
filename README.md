@@ -37,8 +37,10 @@
   </a> 
     &emsp; 
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="c#" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=c#&logoColor=black">
+  <a <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white">
+</a>
+
    </a>
      &emsp; 
 </p>
