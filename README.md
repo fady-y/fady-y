@@ -37,7 +37,7 @@
   </a> 
     &emsp; 
 
-  <a <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white">
 </a>
 
